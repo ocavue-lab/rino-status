@@ -4,8 +4,10 @@ repo: rino-status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Rino
+  - name: Rino Homepage
     url: https://www.rino.app
+  - name: Rino Web Application
+    url: https://rino.app
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
@@ -20,7 +22,9 @@ status-website:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/ocavue/rino
+    - title: Twitter
+      href: https://twitter.com/rino_editor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
