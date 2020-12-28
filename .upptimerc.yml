@@ -14,7 +14,7 @@ status-website:
   cname: status.rino.app
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/ocavue/rino/89bdd77c8977477e5074de68c551735eae616a49/packages/web/src/assets/logo.png
   name: Rino Status
   introTitle: "Rino Status"
   introMessage: ""
