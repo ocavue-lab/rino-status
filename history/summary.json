@@ -22,9 +22,9 @@
     "url": "https://rino.app",
     "icon": "https://favicons.githubusercontent.com/rino.app",
     "slug": "rino-web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 443,
     "timeMonth": 440,
     "timeYear": 447,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-05": 0
+    }
   }
 ]
