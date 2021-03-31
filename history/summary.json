@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/www.rino.app",
     "slug": "rino-homepage",
     "status": "up",
-    "uptime": "99.99%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
-    "time": 505,
-    "timeDay": 183,
-    "timeWeek": 369,
-    "timeMonth": 440,
-    "timeYear": 505,
-    "dailyMinutesDown": {
-      "2021-03-14": 18
-    }
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 503,
+    "timeDay": 268,
+    "timeWeek": 325,
+    "timeMonth": 435,
+    "timeYear": 503,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Rino Web Application",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 432,
-    "timeDay": 320,
-    "timeWeek": 369,
-    "timeMonth": 362,
-    "timeYear": 432,
+    "time": 431,
+    "timeDay": 273,
+    "timeWeek": 342,
+    "timeMonth": 359,
+    "timeYear": 431,
     "dailyMinutesDown": {
       "2021-03-14": 18
     }
