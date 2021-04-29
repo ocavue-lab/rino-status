@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 479,
-    "timeDay": 233,
-    "timeWeek": 525,
-    "timeMonth": 383,
-    "timeYear": 479,
+    "time": 476,
+    "timeDay": 201,
+    "timeWeek": 503,
+    "timeMonth": 377,
+    "timeYear": 476,
     "dailyMinutesDown": {}
   },
   {
@@ -24,17 +24,17 @@
     "slug": "rino-web-application",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "97.84%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "98.16%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 420,
-    "timeDay": 571,
-    "timeWeek": 402,
-    "timeMonth": 378,
-    "timeYear": 420,
+    "time": 419,
+    "timeDay": 566,
+    "timeWeek": 392,
+    "timeMonth": 376,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2021-04-28": 32,
+      "2021-04-28": 27,
       "2021-03-14": 18
     }
   }
