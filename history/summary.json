@@ -4,9 +4,9 @@
     "url": "https://www.rino.app",
     "icon": "https://favicons.githubusercontent.com/www.rino.app",
     "slug": "rino-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.94%",
     "uptimeMonth": "99.99%",
     "uptimeYear": "99.98%",
@@ -16,6 +16,7 @@
     "timeMonth": 203,
     "timeYear": 405,
     "dailyMinutesDown": {
+      "2022-04-03": 0,
       "2022-03-28": 6,
       "2021-11-30": 8,
       "2021-05-25": 79
@@ -26,9 +27,9 @@
     "url": "https://rino.app",
     "icon": "https://favicons.githubusercontent.com/rino.app",
     "slug": "rino-web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +39,7 @@
     "timeMonth": 22,
     "timeYear": 84,
     "dailyMinutesDown": {
+      "2022-04-03": 0,
       "2022-02-10": 7,
       "2021-11-30": 8,
       "2021-04-28": 27
