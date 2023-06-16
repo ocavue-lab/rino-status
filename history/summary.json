@@ -4,19 +4,19 @@
     "url": "https://www.rino.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.rino.app.ico",
     "slug": "rino-homepage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 390,
-    "timeDay": 350,
-    "timeWeek": 1460,
-    "timeMonth": 583,
+    "timeDay": 323,
+    "timeWeek": 1315,
+    "timeMonth": 574,
     "timeYear": 413,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 17
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://rino.app",
     "icon": "https://icons.duckduckgo.com/ip3/rino.app.ico",
     "slug": "rino-web-application",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 32,
     "timeDay": 16,
-    "timeWeek": 10,
+    "timeWeek": 11,
     "timeMonth": 32,
     "timeYear": 25,
     "dailyMinutesDown": {
-      "2023-06-16": 0
+      "2023-06-16": 17
     }
   }
 ]
