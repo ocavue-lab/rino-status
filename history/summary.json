@@ -4,9 +4,9 @@
     "url": "https://www.rino.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.rino.app.ico",
     "slug": "rino-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 333,
     "timeYear": 363,
     "dailyMinutesDown": {
+      "2023-11-07": 0,
       "2023-06-16": 17
     }
   },
