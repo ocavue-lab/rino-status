@@ -4,7 +4,7 @@
     "url": "https://www.rino.app",
     "icon": "https://icons.duckduckgo.com/ip3/www.rino.app.ico",
     "slug": "rino-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 309,
     "timeYear": 323,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-04-08": 18,
       "2024-03-21": 8,
       "2024-01-17": 23,
@@ -27,7 +28,7 @@
     "url": "https://rino.app",
     "icon": "https://icons.duckduckgo.com/ip3/rino.app.ico",
     "slug": "rino-web-application",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +40,7 @@
     "timeMonth": 27,
     "timeYear": 24,
     "dailyMinutesDown": {
+      "2024-06-26": 0,
       "2024-04-08": 18,
       "2024-03-21": 7,
       "2024-01-17": 23
